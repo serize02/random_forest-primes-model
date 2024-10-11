@@ -36,3 +36,15 @@ Random Forest is an ensemble learning method that operates by constructing multi
 
 The model generates the following plots to visualize the results:
 
+1. **Scatter Plot**: Shows the relationship between true values and predictions.
+    
+![](https://github.com/serize02/random_forest-primes-model/blob/main/plots/plot_2024-10-11%2018-09-05_0.png)
+
+2. **Line Plot**: Compares actual and predicted values over sample indices.
+
+![](https://github.com/serize02/random_forest-primes-model/blob/main/plots/plot_2024-10-11%2018-09-05_1.png)
+
+3. **Error Histogram**: Displays the distribution of prediction errors.
+
+![](https://github.com/serize02/random_forest-primes-model/blob/main/plots/plot_2024-10-11%2018-09-05_2.png)
+
